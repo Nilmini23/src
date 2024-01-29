@@ -1,3 +1,5 @@
+<!--
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -6,6 +8,13 @@
         <title>Exercise 1: Getting Started with PHP - Nilmini</title>
     </head>
 
+-->
+
+    <?php 
+    $title = "Exercise 1";
+    include 'header.php'; 
+    ?>
+    
     <body>
     <h3>
         3.1 Write PHP code to output the following message:    
@@ -66,5 +75,12 @@
         3.4 Take a screenshot that confirms your development environment setup and include it as an image in the "ex1.php" file.
     </h3>
     <img src="images/task1_3.4.png" alt="web development environment">
+    <br><br>
+    <?php include 'footer.php' ?>
+
+
+    <!--
     </body>
 </html>
+
+-->
