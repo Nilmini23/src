@@ -1,0 +1,25 @@
+body {
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 16px auto;
+width: 1200px;
+
+}
+
+nav a, nav a:visited, nav a:active {
+    color:rgb(10, 10, 230);
+}
+
+header {
+    background-color: aqua;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+@media (max-width:1200px) {
+    body {
+        width: 90%;
+    }
+}
+

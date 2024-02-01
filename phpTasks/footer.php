@@ -1,7 +1,13 @@
         <footer class="row">
             <div class="col-md-4">@ Kanchana Nilmini</div>
             <div class="col-md-4">Computer Applications</div>
-            <div class="col-md-4">HAMK</div>
+            <div class="col-md-4">HAMK</div><br>
+
+            <?php
+                $filename = basename($_SERVER['PHP_SELF']);
+                $modified_time = date("F d Y H:i:s.", filemtime($filename));
+                echo $filename . " was last modified: " . $modified_time;
+            ?>
         </footer>
     </div>
     
