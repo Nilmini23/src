@@ -25,29 +25,31 @@
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First Name</th>
-      <th scope="col">Last Name</th>
+      <th>count</th>
+      <th>First Name</th>
+      <th>Last Name</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
+      <th>1</th>
+      <td>Tomy</td>
+      <td>Liksa</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
+      <th>2</th>
+      <td>David</td>
+      <td>Harrods</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>Jackson</td>
+      <th>3</th>
+      <td>Saara</td>
+      <td>Manton</td>
     </tr>
   </tbody>
 </table>
+<br>
+
 
 <h3>3.5 String Variables: Write a PHP script with two string variables 
     ($str1 = "Hello"; $str2 = "World";). Join them together and 

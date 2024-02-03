@@ -5,7 +5,7 @@
 
             <?php
                 $filename = basename($_SERVER['PHP_SELF']);
-                $modified_time = date("F d Y H:i:s.", filemtime($filename));
+                $modified_time = date("F j, Y, g:i a",filemtime($filename));
                 echo $filename . " was last modified: " . $modified_time;
             ?>
         </footer>
