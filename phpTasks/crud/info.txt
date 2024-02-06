@@ -1,0 +1,15 @@
+environment is php24 in docker
+php24-db-1
+
+for project work
+-----------------------------
+- src
+	-- myTasks (repo1)
+	-- projectWork (repo2)
+		-- layout
+		- index.php
+		- readme.md
+		- feature1.php
+		- feacher2.php
+		-- javaScript_folder
+		-- images_folder	

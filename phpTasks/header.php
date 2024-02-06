@@ -37,7 +37,10 @@
                                     </li> 
                                     <li class="nav-item">
                                         <a class="nav-link" href="ex5.php">Exercise 5</a>
-                                    </li>             
+                                    </li> 
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="crud/index.php">Exercise 7</a>
+                                    </li>            
                                 </ul> 
                             </div>
                         </div>
