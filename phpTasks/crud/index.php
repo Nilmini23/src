@@ -36,6 +36,9 @@
         </div>
     </div>
     <button type="submit" class="btn btn-primary" name="submit">Submit</button>
+    <a href="read.php" button type="submit" class="btn btn-primary" name="submit">Read Data</button></a>
+
+
 </form>
 
 <?php include '../footer.php' ?>
